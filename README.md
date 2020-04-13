@@ -11,7 +11,7 @@ Undergrad
 
 # Installation
 Download the repo  
-`pip install -r requirements.txt`  
+`pip install -r requirements.txt`. Python3.6    
 If that doesn't work for everything, please install dependencies as needed  
 `pip install flask`  
 `pip install tensorflow`  
