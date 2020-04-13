@@ -31,7 +31,7 @@ If that doesn't work for everything, please install dependencies as needed
 2. Upload an image  
 
 # Option: android device/emulator
-1. Install "animal classification.apk", for this option you have to use same machine running API  
+1. Install "animal classification.apk", for this option you have to use same machine running API or if you really want to use the LAN option, then extract animalgif.zip, then change the URL on the top in MainActivity.kt  
 2. Tap on select image button  
 3. Upload an image  
 4. Tap on guess button  
